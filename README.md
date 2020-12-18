@@ -1,6 +1,6 @@
 # Priority Queue Implementation
 
-This is very easy priority queue implementation by the using some heap.
+This is very easy priority queue implementation by the using some heap. I write code in java.
 
 ## Requirement
 
@@ -35,4 +35,4 @@ and this problem only faces in `windows users`.
 Then we install [**Visual Studio Code**](https://code.visualstudio.com/)
 just because it was a lightweight text editor and you install many plugins.
 
-> > And you are good to go!
+> And you are good to go!
