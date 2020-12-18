@@ -1,6 +1,6 @@
 # Priority Queue Implementation
 
-This is priority queue implementation by the using some heap.
+This is very easy priority queue implementation by the using some heap.
 
 ## Requirement
 
